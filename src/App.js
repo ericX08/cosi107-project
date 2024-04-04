@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './Login/Login';
 import Success from './Login/Success';
 import XSS from './Login/Login_XSS';
